@@ -1,2 +1,3 @@
 # v3-page-helpers
-Vue 3.x components that help with bootstrap 5.x modals and pagination.
+
+This project contains illustrative vueJS components for modal dialogs and pagination.  It relies on vue 3.x and bootstrap 5.x.
