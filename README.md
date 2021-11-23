@@ -1,3 +1,6 @@
 # v3-page-helpers
+This project illustrates programmable modals and pagination with bootstrap 5.x in vue 3.x.
 
-This project contains illustrative vueJS components for modal dialogs and pagination.  It relies on vue 3.x and bootstrap 5.x.
+Illustrative screenshot:
+
+![Screenshot](PaginationAndModalsWithBootstrap5Vue3.png)
